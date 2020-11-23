@@ -7,7 +7,11 @@ Based on Paper-
 Real-time efficient detection in Vision Based Static Hand Gesture Recognition
 
 by Authors:
-Panigrahi, Amrutnarayan
-Mohanty, Jaganath Prasad
-Swain, Ayaskanta
-Mahapatra, Kamalakanta
+
+Amrutnarayan Panigrahi
+
+Jaganath Prasad Mohanty
+
+Ayaskanta Swain
+
+Kamalakanta Mahapatra
